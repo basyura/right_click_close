@@ -1,0 +1,2 @@
+content right_click_close chrome/chromeFiles/content/
+overlay chrome://browser/content/browser.xul chrome://right_click_close/content/right_click_close.xul

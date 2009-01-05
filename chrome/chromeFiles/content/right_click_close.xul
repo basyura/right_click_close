@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<overlay id="sample" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+<script src="right_click_close.js" type="text/javascript" />
+<script type="application/x-javascript">
+	<![CDATA[
+	window.addEventListener('load', tabInit, false);
+	]]>
+</script>
+</overlay>
